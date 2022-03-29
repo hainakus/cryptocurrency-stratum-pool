@@ -34,6 +34,7 @@
         "bigint-buffer": "^1.1.5",
         "multi-hashing": "^1.0.2",
         "uint64be": "^3.0.0",
-        "json-bigint": "^1.0.0"
+        "json-bigint": "^1.0.0",
+        "blake2": "^4.1.1"
     }
 }
